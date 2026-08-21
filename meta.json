@@ -1,0 +1,29 @@
+{
+  "repo": "drivereasy-professional-driver-updater",
+  "product": "DriverEasy Professional Driver Updater",
+  "kind": "utility",
+  "install_type": "nexpath",
+  "install_url": "https://drivereasy.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "utility",
+  "topics": [
+    "drivereasy",
+    "driver-updater",
+    "device-drivers",
+    "driver-scan",
+    "hardware-drivers",
+    "pc-maintenance",
+    "windows-drivers",
+    "driver-management",
+    "drivereasy-setup-failed-fix",
+    "how-to-install-drivereasy",
+    "drivereasy-windows",
+    "system-tools",
+    "windows-tools",
+    "maintenance-utility"
+  ],
+  "stars_cache": 17,
+  "nexpath_slug": "drivereasy",
+  "nexpath_app_name": "DriverEasy"
+}
